@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/e-commerce-product-listing/static/css/main.fc7ddd56.chunk.css",
+    "main.js": "/e-commerce-product-listing/static/js/main.dd938824.chunk.js",
+    "main.js.map": "/e-commerce-product-listing/static/js/main.dd938824.chunk.js.map",
+    "runtime~main.js": "/e-commerce-product-listing/static/js/runtime~main.351f8d7e.js",
+    "runtime~main.js.map": "/e-commerce-product-listing/static/js/runtime~main.351f8d7e.js.map",
+    "static/js/2.8a0e9bfb.chunk.js": "/e-commerce-product-listing/static/js/2.8a0e9bfb.chunk.js",
+    "static/js/2.8a0e9bfb.chunk.js.map": "/e-commerce-product-listing/static/js/2.8a0e9bfb.chunk.js.map",
+    "static/js/3.7426b29a.chunk.js": "/e-commerce-product-listing/static/js/3.7426b29a.chunk.js",
+    "static/js/3.7426b29a.chunk.js.map": "/e-commerce-product-listing/static/js/3.7426b29a.chunk.js.map",
+    "index.html": "/e-commerce-product-listing/index.html",
+    "precache-manifest.09964f7ff79326b24010afb482c3abe2.js": "/e-commerce-product-listing/precache-manifest.09964f7ff79326b24010afb482c3abe2.js",
+    "service-worker.js": "/e-commerce-product-listing/service-worker.js",
+    "static/css/main.fc7ddd56.chunk.css.map": "/e-commerce-product-listing/static/css/main.fc7ddd56.chunk.css.map"
+  }
+}
